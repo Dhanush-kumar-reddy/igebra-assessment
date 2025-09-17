@@ -13,7 +13,6 @@ export default function Insights() {
         </li>
         <li className="flex items-start">
           <span className="text-blue-500 font-bold mr-2">▶</span>
-          {/* eslint-disable-next-line react/no-unescaped-entities */}
           <div>
             <strong className="font-semibold">Student Personas:</strong> Students cluster into three distinct groups: 'High Achievers', 'Average Students', and those 'Needing Attention', each with unique cognitive profiles.
           </div>

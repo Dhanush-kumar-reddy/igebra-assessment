@@ -6,13 +6,7 @@ This project is a full-stack data analysis and visualization application created
 
 ##  Live Demo
 
-**[View the live deployed dashboard here!](https://YOUR_VERCEL_LINK_HERE.vercel.app)**
-
-*(Suggestion: After deploying, take a great screenshot of your dashboard, name it `dashboard_screenshot.png`, place it in the root folder, and the image below will appear.)*
-
-![Dashboard Screenshot](./dashboard_screenshot.png)
-
----
+**[View the live deployed dashboard here!](https://igebra-assessment-kchc.vercel.app/)**
 
 ## 🔑 Key Features
 
